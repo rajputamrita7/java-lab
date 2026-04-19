@@ -1,6 +1,8 @@
 # Advanced Java Lab - BCS405A
 Name: Amrita Saini
 
+USN: 4AL24CS025
+
 ## Program 1a: ArrayList & LinkedList Operations
 [Code](./1a_ArrayList_LinkedList/ListDemo.java)  
 [Output](./1a_ArrayList_LinkedList/output.png)
