@@ -20,6 +20,10 @@ USN: 4AL24CS025
 [Code](./1b_ArrayList/SortColors.java)  
 [Output](./1b_ArrayList/output_sort.png)
 
+## Program 1b (4): SubList
+[Code](./1b_ArrayList/SubListDemo.java)  
+[Output](./1b_ArrayList/output_sublist.png)
+
 
 ## Program 2: Stack Operations
 [Code](./2_Stack/StackDemo.java)  
