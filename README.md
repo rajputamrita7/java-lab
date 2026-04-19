@@ -14,3 +14,7 @@ USN: 4AL24CS025
 ## Program 1b (2): Remove Element
 [Code](./1b_ArrayList/RemoveColor.java)  
 [Output](./1b_ArrayList/output_remove.png)
+
+## Program 1b (3): Sort Colors
+[Code](./1b_ArrayList/SortColors.java)  
+[Output](./1b_ArrayList/output_sort.png)
