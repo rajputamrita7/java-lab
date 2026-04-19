@@ -21,6 +21,6 @@ USN: 4AL24CS025
 [Output](./1b_ArrayList/output_sort.png)
 
 
-## Program 3: Queue Operations
-[Code](./3_Queue/QueueDemo.java)  
-[Output](./3_Queue/output_queue.png)
+## Program 2: Stack Operations
+[Code](./2_Stack/StackDemo.java)  
+[Output](./2_Stack/output_stack.png)
