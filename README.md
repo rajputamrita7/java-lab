@@ -11,6 +11,7 @@ USN: 4AL24CS025
 [Code](./1b_ArrayList/ColorSearch.java)  
 [Output](./1b_ArrayList/output.png)
 
+
 ## Program 1b (2): Remove Element
 [Code](./1b_ArrayList/RemoveColor.java)  
 [Output](./1b_ArrayList/output_remove.png)
@@ -18,3 +19,8 @@ USN: 4AL24CS025
 ## Program 1b (3): Sort Colors
 [Code](./1b_ArrayList/SortColors.java)  
 [Output](./1b_ArrayList/output_sort.png)
+
+
+## Program 3: Queue Operations
+[Code](./3_Queue/QueueDemo.java)  
+[Output](./3_Queue/output_queue.png)
